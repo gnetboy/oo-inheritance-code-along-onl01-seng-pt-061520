@@ -10,7 +10,7 @@ class Vehicle
     end
     
     def go 
-      "vrrrrrrrrrooom!"
+      "vrrrrrrrooom!"
       
     end
     
